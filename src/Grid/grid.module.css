@@ -1,0 +1,12 @@
+.items{
+    display: flex;
+    font-family: sans-serif;
+    width: 40%;
+    max-width: 500px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 0 auto;
+}
+.items img{
+    border-radius: 50%;
+}
